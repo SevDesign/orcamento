@@ -10,7 +10,13 @@ document.getElementById('loginForm').addEventListener('submit', function(event) 
         'genesis': 'genesis.html',
         'dra evyllen': 'dra_evyllen.html',
         'evyllen ponte': 'dra_evyllen.html',
-        'evyllen': 'dra_evyllen.html'
+        'evyllen': 'dra_evyllen.html',
+        'boutique': 'boutique.html',
+        'botique': 'boutique.html',
+        'botike': 'boutique.html',
+        'roupa': 'boutique.html',
+        'moda': 'boutique.html',
+        'moda fermina': 'boutique.html'
     };
 
     if (rotas[inputValue]) {
